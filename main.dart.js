@@ -9340,11 +9340,12 @@ CE:function CE(){},
 af3(){return new A.pN(new A.PQ(),A.z(t.K,t.cP))},
 Vz:function Vz(a,b){this.a=a
 this.b=b},
-qq:function qq(a,b,c,d){var _=this
+qq:function qq(a,b,c,d,e){var _=this
 _.e=a
 _.cx=b
 _.db=c
-_.a=d},
+_.R8=d
+_.a=e},
 PQ:function PQ(){},
 PU:function PU(){},
 uv:function uv(a){var _=this
@@ -36499,7 +36500,7 @@ n=o.e
 o=o.cx
 r=q.gSF()
 q.a.toString
-return new A.tC(p,p,p,new A.YF(),p,p,p,p,p,n,B.CZ,p,p,p,B.AT,q.gSN(),o,p,B.HG,s,p,r,p,p,B.jI,!1,!1,!1,!1,q.gSq(),!0,p,p,p,new A.kf(q,t.By))},
+return new A.tC(p,p,p,new A.YF(),p,p,p,p,p,n,B.CZ,p,p,p,B.AT,q.gSN(),o,p,B.HG,s,p,r,p,p,B.jI,!1,!1,!1,!1,q.gSq(),!1,p,p,p,new A.kf(q,t.By))},
 T(a){var s,r=null,q=A.yy(!1,!1,this.OJ(a),r,r,r,r,!0,r,r,r,new A.YG(),r,r)
 this.a.toString
 s=this.d
@@ -37137,7 +37138,7 @@ s.aR()}}
 A.Kw.prototype={
 E(){return"ButtonTextTheme."+this.b}}
 A.xf.prototype={
-gcR(){switch(0){case 0:case 1:return B.yP}},
+gcR(){switch(0){case 0:case 1:return B.yO}},
 gcj(){switch(0){case 0:case 1:return B.EO}},
 i(a,b){var s=this
 if(b==null)return!1
@@ -57834,9 +57835,9 @@ g=A.en(A.dY(d,A.dX(A.a([A.dJ(A.a([A.cX("Our Works",A.bS(d,d,B.h,d,d,d,d,d,c,d,d,
 i=A.bN(d,d,20)
 h=A.d5(20)
 h=A.en(A.dY(d,A.dX(A.a([A.cX("Mission",A.bS(d,d,B.h,d,d,d,d,d,c,d,d,20,d,d,d,d,d,!0,d,2,d,d,d,d,d,d)),A.bN(d,15,d),A.cX("Elevate your online presence with QORTECHNO, a digital marketing leader. We craft captivating websites and strategic marketing campaigns to propel businesses forward. From secure web development to targeted social media strategies, we empower companies of all sizes to thrive in the digital age. Let us unlock your transformative growth potential. ",A.bS(d,d,B.h,d,d,d,d,d,d,d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d))],o),B.aw),d,new A.ck(B.bc,d,d,h,d,d,B.U),d,d,new A.aG(15,15,15,15),d))
-j=A.bN(d,d,30)
+j=A.bN(d,d,20)
 k=A.d5(20)
-return new A.ry(A.a7m(new A.eA(B.yO,A.dX(A.a([b,f,A.dJ(A.a([g,i,A.en(A.dJ(A.a([h,j,A.en(A.dY(d,A.dX(A.a([A.cX("Vision",A.bS(d,d,B.h,d,d,d,d,d,c,d,d,20,d,d,d,d,d,!0,d,2,d,d,d,d,d,d)),A.bN(d,15,d),A.cX("QORTECHNO envisions a future where businesses seamlessly thrive in the dynamic digital landscape. We aim to be the go-to partner for companies seeking unparalleled expertise to sustain their success in the digital age. We envision a digital world where our expertise, commitment, and forward-thinking approach contribute to the success and longevity of every client we serve.",A.bS(d,d,B.h,d,d,d,d,d,d,d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d))],o),B.aw),d,new A.ck(B.bc,d,d,k,d,d,B.U),d,d,new A.aG(15,15,15,15),d))],o),B.aw,B.ac,B.a3))],o),B.aw,B.ac,B.a3)],o),B.H),d),d,B.c2),B.j,d)},
+return new A.ry(A.a7m(new A.eA(B.yP,A.dX(A.a([b,f,A.dJ(A.a([g,i,A.en(A.dJ(A.a([h,j,A.en(A.dY(d,A.dX(A.a([A.cX("Vision",A.bS(d,d,B.h,d,d,d,d,d,c,d,d,20,d,d,d,d,d,!0,d,2,d,d,d,d,d,d)),A.bN(d,15,d),A.cX("QORTECHNO envisions a future where businesses seamlessly thrive in the dynamic digital landscape. We aim to be the go-to partner for companies seeking unparalleled expertise to sustain their success in the digital age. We envision a digital world where our expertise, commitment, and forward-thinking approach contribute to the success and longevity of every client we serve.",A.bS(d,d,B.h,d,d,d,d,d,d,d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d))],o),B.aw),d,new A.ck(B.bc,d,d,k,d,d,B.U),d,d,new A.aG(15,15,15,15),d))],o),B.aw,B.ac,B.a3))],o),B.aw,B.ac,B.a3)],o),B.H),d),d,B.c2),B.j,d)},
 rv(){var s=0,r=A.O(t.z)
 var $async$rv=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:s=2
@@ -57886,7 +57887,7 @@ $1(a){return new A.eA(B.yN,A.a50(A.d5(12),A.a2h(a,B.vL,200,null)),null)},
 $S:370}
 A.zH.prototype={
 T(a){var s=null
-return new A.qq(new A.pP(s),"Qortechno Profile",A.a7E(s,A.aft(A.aZ(a).p3),s),s)}}
+return new A.qq(new A.pP(s),"Qortechno Profile",A.a7E(s,A.aft(A.aZ(a).p3),s),!1,s)}}
 A.hX.prototype={
 gv(a){return this.b},
 k(a,b){if(b>=this.b)throw A.e(A.OX(b,this))
@@ -60473,8 +60474,8 @@ B.yL=new A.d7(4,0,6,0)
 B.yM=new A.d7(8,0,12,0)
 B.be=new A.aG(0,0,0,0)
 B.yN=new A.aG(0,0,10,0)
-B.yO=new A.aG(10,10,10,10)
-B.yP=new A.aG(16,0,16,0)
+B.yO=new A.aG(16,0,16,0)
+B.yP=new A.aG(20,20,20,20)
 B.yQ=new A.pm(null)
 B.yR=new A.po(0,"noOpinion")
 B.yS=new A.po(1,"enabled")
